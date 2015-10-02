@@ -1,4 +1,5 @@
 apples
 bananas
-milk
+soy milk
 vegetables
+cookies
